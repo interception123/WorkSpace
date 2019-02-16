@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bot>
-    <Require>false</Require>
-	<Version>7.8</Version>
+    <Require>true</Require>
+	<Version>8.8</Version>
 	<Changes></Changes>
-	<Url></Url>
+	<Url>https://github.com/interception123/WorkSpace/blob/master/Bot/Bot.zip?raw=true</Url>
 </Bot>
