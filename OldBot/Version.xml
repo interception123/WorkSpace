@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bot>
-    <Require>false</Require>
-	<version>7.8</version>
+    <Require>true</Require>
+	<version>7.9</version>
 	<change></change>
 </Bot>
