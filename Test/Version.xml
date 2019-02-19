@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bot>
-    <Require>false</Require>
+    <Require>true</Require>
 	<Version>8.10</Version>
 	<Changes>-Добавлено сохранение прокси
 -Добавлено сохранение соу (работает только при сохранении списка аккаунтов в файл)
