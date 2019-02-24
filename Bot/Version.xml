@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bot>
     <Require>true</Require>
-	<Version>9.1</Version>
-	<Changes>-Поправлена ошибка с прокси
--Поправлена ошибка с резервными кск</Changes>
+	<Version>9.2</Version>
+	<Changes>-Исправление ошибок</Changes>
 	<Url>https://github.com/interception123/WorkSpace/blob/master/Bot/Bot.zip?raw=true</Url>
 </Bot>
