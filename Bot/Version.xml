@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bot>
     <Require>true</Require>
-	<Version>9.2</Version>
-	<Changes>-Исправление ошибок</Changes>
+	<Version>9.3</Version>
+	<Changes>-Поправлена ошибка с одинаковыми логинами и разными паролями на разных серверах
+-Добавлено отображение кол-ва лошадей в каждом заводе (заводы будут грузиться чуть медленее)
+-Добавлено предупреждение после включения настройки Продавать навоз
+-Исправление мелких ошибок</Changes>
 	<Url>https://github.com/interception123/WorkSpace/blob/master/Bot/Bot.zip?raw=true</Url>
 </Bot>
