@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bot>
     <Require>true</Require>
-	<Version>9.5</Version>
-	<Changes>-Исправление ошибок в частности резерв КСК</Changes>
+	<Version>9.6</Version>
+	<Changes>-Исправление ошибок</Changes>
 	<Url>https://github.com/interception123/WorkSpace/blob/master/Bot/Bot.zip?raw=true</Url>
 </Bot>
