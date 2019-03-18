@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bot>
     <Require>true</Require>
-	<Version>9.6</Version>
-	<Changes>-Исправление ошибок</Changes>
+	<Version>9.7</Version>
+	<Changes>-Исправление ошибок
+-Добавлены уведомления об заканчивающейся еде, экю</Changes>
 	<Url>https://github.com/interception123/WorkSpace/blob/master/Bot/Bot.zip?raw=true</Url>
 </Bot>
