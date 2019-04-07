@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bot>
     <Require>true</Require>
-	<Version>9.12</Version>
-	<Changes>-Исправление ошибок
--Настройки общих и резервных КСК разделены, можно поставить разную длительность для общих и резервных КСК</Changes>
+	<Version>9.13</Version>
+	<Changes>-Поправлено соу</Changes>
 	<Url>https://github.com/interception123/WorkSpace/blob/master/Bot/Bot.zip?raw=true</Url>
 </Bot>
